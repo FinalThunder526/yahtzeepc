@@ -1,0 +1,35 @@
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\bin\Release\YahtzeePC.exe
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\bin\Release\YahtzeePC.pdb
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\MainWindow.baml
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\MainWindow.g.cs
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\App.g.cs
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC_MarkupCompile.cache
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.g.resources
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.Properties.Resources.resources
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.csproj.GenerateResource.Cache
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.exe
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.pdb
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.exe
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.pdb
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\bin\Release\YahtzeePC.exe
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\bin\Release\YahtzeePC.pdb
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.csprojResolveAssemblyReference.cache
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\MainWindow.baml
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\MainWindow.g.cs
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\App.g.cs
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC_MarkupCompile.cache
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.g.resources
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.Properties.Resources.resources
+C:\Users\Sarang\Documents\Visual Studio 2012\Projects\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.csproj.GenerateResource.Cache
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.exe
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.pdb
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\bin\Release\YahtzeePC.exe
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\bin\Release\YahtzeePC.pdb
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.csprojResolveAssemblyReference.cache
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\MainWindow.baml
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\MainWindow.g.cs
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\App.g.cs
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC_MarkupCompile.cache
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.g.resources
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.Properties.Resources.resources
+C:\Users\Sarang\Documents\GitHub\yahtzeepc\YahtzeePC\YahtzeePC\obj\x86\Release\YahtzeePC.csproj.GenerateResource.Cache
